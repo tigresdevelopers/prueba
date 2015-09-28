@@ -1,0 +1,29 @@
+commit 44f6dabdb87432aa20049a259c93b736174bf1de
+Author: lmhernandez <lmhernandezmontenegro@gmail.com>
+Date:   Sun Sep 27 22:34:02 2015 -0500
+
+    OLA ya subimos la foto
+
+commit 78ba11a227f139ff12796c65478898a37d2b11f3
+Author: lmhernandez <lmhernandezmontenegro@gmail.com>
+Date:   Sun Sep 27 22:32:24 2015 -0500
+
+    Preparamos el entorno par ala imagen
+
+commit e39f3289df34cd2b116282163027926c7927935b
+Author: lmhernandez <lmhernandezmontenegro@gmail.com>
+Date:   Sun Sep 27 22:23:45 2015 -0500
+
+    Hicimos el segundo cambios los SECTION
+
+commit 15f14910677ab9af23e9058ded214803b7e36bb1
+Author: lmhernandez <lmhernandezmontenegro@gmail.com>
+Date:   Sun Sep 27 22:21:28 2015 -0500
+
+    ACABAMOS DE SUBIR EL PRIMER CAMBIO INDEX
+
+commit 6dc74a6e5520a6ee56e2c2da1e791eca099ed22d
+Author: lmhernandez <lmhernandezmontenegro@gmail.com>
+Date:   Sun Sep 27 22:15:06 2015 -0500
+
+    Estos son los archivos bases e mi portafolio
